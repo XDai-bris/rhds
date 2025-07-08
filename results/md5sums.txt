@@ -1,0 +1,17 @@
+gdac.broadinstitute.org_HNSC.Clinical_Pick_Tier1.Level_4.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Clinical_Pick_Tier1.aux.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Clinical_Pick_Tier1.mage-tab.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_Clinical.Level_1.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_Clinical.aux.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_Clinical.mage-tab.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_methylation__humanmethylation450__jhu_usc_edu__Level_3__within_bioassay_data_set_function__data.Level_3.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_methylation__humanmethylation450__jhu_usc_edu__Level_3__within_bioassay_data_set_function__data.aux.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_methylation__humanmethylation450__jhu_usc_edu__Level_3__within_bioassay_data_set_function__data.mage-tab.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_protein_exp__mda_rppa_core__mdanderson_org__Level_3__protein_normalization__data.Level_3.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_protein_exp__mda_rppa_core__mdanderson_org__Level_3__protein_normalization__data.aux.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Merge_protein_exp__mda_rppa_core__mdanderson_org__Level_3__protein_normalization__data.mage-tab.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Methylation_Preprocess.Level_3.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Methylation_Preprocess.aux.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.Methylation_Preprocess.mage-tab.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.RPPA_AnnotateWithGene.Level_3.2016012800.0.0.tar.gz: OK
+gdac.broadinstitute.org_HNSC.RPPA_AnnotateWithGene.aux.2016012800.0.0.tar.gz: OK
