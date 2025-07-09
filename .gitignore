@@ -1,1 +1,3 @@
 config-template.env
+data/
+renv.lock
